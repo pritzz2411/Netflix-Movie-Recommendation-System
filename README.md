@@ -25,6 +25,4 @@ A machine learning based movie recommendation system that suggests similar movie
 4. Cosine Similarity is used to find similar movies.
 5. Streamlit provides the interactive web interface.
 
-## ▶️ Run Locally
 
-Install dependencies:
